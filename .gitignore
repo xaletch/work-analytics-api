@@ -43,3 +43,6 @@ ehthumbs.db
 
 # nginx
 .nginx
+
+# local bd data
+data
